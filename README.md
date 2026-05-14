@@ -1,6 +1,6 @@
 # AOULINK Ecosystem
 
-![AOULINK Banner](assets/images/aoulink-banner.jpg)
+![AOULINK Banner](assets/images/1280x720.png)
 
 AOULINK is building a decentralized Web3 ecosystem connecting blockchain infrastructure, perpetual trading, DeFi lending, wallets, AI analytics, and decentralized financial systems.
 
